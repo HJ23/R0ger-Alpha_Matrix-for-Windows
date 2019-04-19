@@ -1,0 +1,10 @@
+﻿  engine.cpp
+engine.cpp(28): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+engine.cpp(40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  mouse_ff.cpp
+  processor.cpp
+c:\users\john\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\ss.h(3): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
+  recorder.cpp
+c:\users\john\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\ss.h(3): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
+  Source.cpp
+c:\users\john\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\ss.h(3): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
