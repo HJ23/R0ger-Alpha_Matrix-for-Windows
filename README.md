@@ -5,7 +5,7 @@
 #
 ## Project description :
   Main purpose of this project is creating efficient fully automatic chess bot using just C++ programming language 
-  User has to indicate top-left and bottom-right corners of chessboard  thanks to advanced recognition algorithm we could create same       software with zero human interaction but our main goal is efficiency !
+  User has to indicate top-left and bottom-right corners of chessboard  thanks to advanced recognition algorithm (*Recognition Algorithm belongs to me idea is simple and supported by experimental results ) we could create same       software with zero human interaction but our main goal is efficiency !
   #
   OpenCV library used for image processing
   #
