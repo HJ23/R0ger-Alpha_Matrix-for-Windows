@@ -1,4 +1,4 @@
-# R0ger-Alpha for-Windows
+# R0ger-Alpha for-Windows (*under maintaince new features will be added and whole project structure will be changed)
 # Fully Automatic Chess Bot - R0ger (version 2.0) 
 # written in C++ 
 # Project structure
